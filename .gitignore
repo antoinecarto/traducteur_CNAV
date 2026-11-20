@@ -1,0 +1,19 @@
+# Secrets Streamlit
+.streamlit/secrets.toml
+
+# Variables d'environnement
+.env
+.env.*
+
+# Environnement Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Fichiers temporaires
+*.log
+.DS_Store
+Thumbs.db
